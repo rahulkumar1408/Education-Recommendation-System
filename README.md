@@ -3,6 +3,7 @@
 
 The Education Recommendation System is a machine learning-based web application designed to assist students in identifying suitable career paths based on their academic performance across various subjects. By analyzing input data such as grades and other relevant factors, the system utilizes a Random Forest model to provide personalized career recommendations, including options like Doctor, Engineer, and more, with associated probabilities. This tool aims to empower students to make informed decisions about their future education and career trajectories. The project is implemented using Python, Scikit-learn, and Flask, ensuring an intuitive and accessible user experience.
 
+## Live Link : https://education-recommendation-system.onrender.com
 
 ## Features
 
